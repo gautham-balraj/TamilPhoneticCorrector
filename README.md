@@ -53,7 +53,7 @@ Accuracy requirement met!
 The script will print a few example corrections as follows:
 
 ```
-Original: naan kadaikkoo vengayam vangaren
+Errored: naan kadaikkoo vengayam vangaren
 Corrected: naan kadaikku vengayam vaangaren
 Ground truth: Naan kadaikku vengayam vaangaren
 ```
