@@ -1,0 +1,501 @@
+**Fruits and Vegetables**
+1. **valapalam** - Banana
+2. **manga** - Mango
+3. **pazham** - Fruit
+4. **thakkali** - Tomato
+5. **vendakkai** - Okra
+6. **urulai** - Potato
+7. **pachai milagai** - Green Chili
+8. **saathukudi** - Sweet Lime
+9. **pazhani** - Papaya
+10. **sapotta** - Sapota
+
+**Basic Nouns**
+11. **amma** - Mother
+12. **appa** - Father
+13. **veedu** - House
+14. **naai** - Dog
+15. **poonai** - Cat
+16. **kaigal** - Hands
+17. **kadai** - Shop
+18. **vazhi** - Road
+19. **paal** - Milk
+20. **neer** - Water
+
+**Verbs**
+21. **vaangaren** - Buying
+22. **poidu** - Going
+23. **vandhen** - Came
+24. **padikaren** - Studying
+25. **thookitu po** - Take and Go
+26. **sapidu** - Eat
+27. **kaanren** - Seeing
+28. **kekkiren** - Listening
+29. **tholaindhu po** - Lost
+30. **azhudhen** - Cried
+
+**Colors**
+31. **neela** - Blue
+32. **pachai** - Green
+33. **sigappu** - Red
+34. **manjal** - Yellow
+35. **vellai** - White
+36. **karuppu** - Black
+37. **oruvar** - One
+38. **irandam** - Two
+39. **naalu** - Four
+40. **anji** - Five
+
+**Common Adjectives**
+41. **periya** - Big
+42. **chinna** - Small
+43. **azhagaana** - Beautiful
+44. **nalladhu** - Good
+45. **ketta** - Bad
+
+**Time and Days**
+46. **kaalai** - Morning
+47. **madhiyam** - Afternoon
+48. **malai** - Evening
+49. **raathiri** - Night
+50. **naatkal** - Days
+
+**Family Relations**
+51. **thambi** - Younger brother
+52. **anna** - Elder brother
+53. **thangachi** - Younger sister
+54. **akka** - Elder sister
+55. **paati** - Grandmother
+56. **thatha** - Grandfather
+57. **maama** - Maternal uncle
+58. **periyappa** - Father's elder brother
+59. **chithappa** - Father's younger brother
+60. **athhai** - Aunt
+61. **maamiyar** - Mother-in-law
+62. **mamanaar** - Father-in-law
+63. **mappillai** - Son-in-law/Husband
+64. **marumagal** - Daughter-in-law
+65. **kozhandhai** - Child
+
+**Body Parts**
+66. **kan** - Eye
+67. **kaadhu** - Ear
+68. **mookku** - Nose
+69. **vaai** - Mouth
+70. **thalai** - Head
+71. **mudiyai** - Hair
+72. **kaal** - Leg
+73. **viral** - Finger
+74. **pal** - Teeth
+75. **thol** - Shoulder
+76. **muttam** - Knee
+77. **vizhi** - Eyes (formal)
+78. **netri** - Forehead
+79. **manthai** - Skull
+80. **ithayam** - Heart
+
+**Food and Cooking**
+81. **saatham** - Rice (cooked)
+82. **arisi** - Rice (uncooked)
+83. **sambar** - Lentil soup
+84. **rasam** - Pepper soup
+85. **thayir** - Yogurt
+86. **maavu** - Flour
+87. **uppu** - Salt
+88. **sakkarai** - Sugar
+89. **ennai** - Oil
+90. **kari** - Meat
+91. **meen** - Fish
+92. **mulai** - Egg
+93. **vengayam** - Onion
+94. **poondu** - Garlic
+95. **inji** - Ginger
+
+**Home and Furniture**
+96. **katil** - Bed
+97. **meyai** - Table
+98. **naarkali** - Chair
+99. **jannal** - Window
+100. **kathavu** - Door
+101. **suvar** - Wall
+102. **tharai** - Floor
+103. **kuzhai** - Tap
+104. **vizhakku** - Light
+105. **min visiri** - Fan
+106. **aduppu** - Stove
+107. **paanai** - Pot
+108. **glass** - Glass
+109. **plate** - Plate
+110. **spoon** - Spoon
+
+**Common Verbs**
+111. **ezhudharen** - Writing
+112. **pesaren** - Speaking
+113. **odaren** - Running
+114. **nadakiren** - Walking
+115. **paakiren** - Looking
+116. **seiyaren** - Doing
+117. **kodukiren** - Giving
+118. **vaangiren** - Taking
+119. **thoonguren** - Sleeping
+120. **ezhundirukiren** - Waking up
+121. **sindhikiren** - Thinking
+122. **marakiren** - Forgetting
+123. **ninaikiren** - Remembering
+124. **mudikiren** - Finishing
+125. **thodanguren** - Starting
+
+**Places**
+126. **palli** - School
+127. **hospital** - Hospital
+128. **temple** - Kovil
+129. **bank** - Bank
+130. **angadi** - Market
+131. **railway station** - Railway station
+132. **bus stand** - Bus stand
+133. **kadarkkarai** - Beach
+134. **thidal** - Ground
+135. **maidanam** - Playground
+136. **theatre** - Theatre
+137. **hotel** - Restaurant
+138. **library** - Library
+139. **office** - Office
+140. **veettu thottam** - Garden
+
+**Weather and Nature**
+141. **mazhai** - Rain
+142. **veyil** - Sun/Sunlight
+143. **kaatru** - Wind
+144. **megam** - Cloud
+145. **minnal** - Lightning
+146. **idigal** - Thunder
+147. **pani** - Dew
+148. **vaanam** - Sky
+149. **kadal** - Sea
+150. **malai** - Mountain
+151. **aaru** - River
+152. **maram** - Tree
+153. **poo** - Flower
+154. **ilai** - Leaf
+155. **mann** - Soil
+
+**Numbers and Math**
+156. **zero** - Poojyam
+157. **moonru** - Three
+158. **aaru** - Six
+159. **yezhu** - Seven
+160. **ettu** - Eight
+161. **onbadhu** - Nine
+162. **pathu** - Ten
+163. **nooru** - Hundred
+164. **aayiram** - Thousand
+165. **koottal** - Addition
+166. **kazhithal** - Subtraction
+167. **perukal** - Multiplication
+168. **vaguthal** - Division
+169. **kanakku** - Math
+170. **samam** - Equal
+
+**Time Related**
+171. **neram** - Time
+172. **mani** - Hour/Clock
+173. **nimisham** - Minute
+174. **vinaadi** - Second
+175. **inru** - Today
+176. **netru** - Yesterday
+177. **naalai** - Tomorrow
+178. **vaaram** - Week
+179. **maadham** - Month
+180. **varusham** - Year
+181. **gnaayiru** - Sunday
+182. **thingal** - Monday
+183. **sevvaai** - Tuesday
+184. **budhan** - Wednesday
+185. **vyaazham** - Thursday
+
+**Emotions and Feelings**
+186. **sandhosham** - Happy
+187. **kavalai** - Sad
+188. **kovam** - Angry
+189. **bayam** - Fear
+190. **asai** - Desire
+191. **kadhal** - Love
+192. **veruppu** - Hate
+193. **poramai** - Jealousy
+194. **madgizhchi** - Joy
+195. **thunbam** - Sorrow
+196. **kalavarai** - Worry
+197. **amaithi** - Peace
+198. **kulappam** - Confusion
+199. **nambikai** - Hope
+200. **aarvam** - Enthusiasm
+
+**Clothing and Accessories**
+201. **sattai** - Shirt
+202. **pantal** - Pants
+203. **pavadai** - Skirt
+204. **pudavai** - Saree
+205. **thundu** - Towel
+206. **mele sattai** - T-shirt
+207. **jatti** - Underwear
+208. **kalangu** - Bangle
+209. **mothhiram** - Ring
+210. **kadikaram** - Watch
+211. **thali** - Mangalsutra
+212. **kunjam** - Hair tie
+213. **seruppu** - Slipper/Shoe
+214. **pai** - Bag
+215. **kuda** - Umbrella
+
+**Question Words**
+216. **enna** - What
+217. **yaar** - Who
+218. **enga** - Where
+219. **eppo** - When
+220. **epdi** - How
+221. **yean** - Why
+222. **ethana** - How many
+223. **evlo** - How much
+224. **ethu** - Which
+225. **yaaru kita** - With whom
+
+**Common Phrases**
+226. **vanakkam** - Hello/Greetings
+227. **nandri** - Thank you
+228. **manikiren** - Sorry
+229. **paarkalaam** - Let's see
+230. **sari** - Okay
+231. **illai** - No
+232. **aamam** - Yes
+233. **pogalaam** - Let's go
+234. **vaanga** - Come (respectful)
+235. **irunga** - Wait/Sit (respectful)
+
+**Professions**
+236. **aasiriyar** - Teacher
+237. **doctor** - Doctor
+238. **vivasaayi** - Farmer
+239. **police** - Police
+240. **engineer** - Engineer
+241. **driver** - Driver
+242. **vyabaari** - Businessman
+243. **sevakar** - Server
+244. **thozhilali** - Worker
+245. **kalai gnan** - Artist
+
+**Transportation**
+246. **car** - Car
+247. **bus** - Bus
+248. **train** - Train
+249. **bike** - Bike
+250. **cycle** - Cycle
+251. **vimanam** - Airplane
+252. **auto** - Auto rickshaw
+253. **kappal** - Ship
+254. **lorry** - Truck
+255. **metro** - Metro
+
+**Education Terms**
+256. **puttagam** - Book
+257. **pencil** - Pencil
+258. **pen** - Pen
+259. **note** - Notebook
+260. **bag** - School bag
+261. **exam** - Exam
+262. **padippu** - Education
+263. **homework** - Homework
+264. **marks** - Marks
+265. **pass** - Pass
+
+**Technology**
+266. **computer** - Computer
+267. **mobile** - Mobile phone
+268. **internet** - Internet
+269. **website** - Website
+270. **printer** - Printer
+271. **camera** - Camera
+272. **tv** - Television
+273. **radio** - Radio
+274. **battery** - Battery
+275. **charger** - Charger
+
+**Directions**
+276. **vadakku** - North
+277. **therku** - South
+278. **kizhakku** - East
+279. **merkku** - West
+280. **valadu** - Right
+281. **idadu** - Left
+282. **mele** - Up
+283. **keezhe** - Down
+284. **munadi** - Front
+285. **pinadi** - Back
+
+**Animals and Birds**
+286. **yaanai** - Elephant
+287. **singham** - Lion
+288. **puli** - Tiger
+289. **kurangu** - Monkey
+290. **aadu** - Goat
+291. **maadu** - Cow
+292. **parravai** - Bird
+293. **kaagam** - Crow
+294. **mayil** - Peacock
+295. **kili** - Parrot
+
+**Quantifiers and Measurements**
+296. **neraya** - Many/Lots
+297. **konjam** - Little/Few
+298. **adhigam** - More
+299. **kuraiva** - Less
+300. **muzhusa** - Full
+301. **kilo** - Kilogram
+302. **meter** - Meter
+303. **litre** - Litre
+304. **dozen** - Dozen
+305. **paathi** - Half
+
+**Common Adjectives**
+306. **pazhaya** - Old
+307. **pudhiya** - New
+308. **nalla** - Good
+309. **mosam** - Bad
+310. **veega** - Fast
+311. **meduva** - Slow
+312. **sulabam** - Easy
+313. **kashtam** - Difficult
+314. **uyaram** - Tall
+315. **kattai** - Short
+
+**Health Related**
+316. **jarham** - Cold
+317. **kaichal** - Fever
+318. **vali** - Pain
+319. **thalai vali** - Headache
+320. **vaandhi** - Vomit
+321. **maruthuvar** - Doctor
+322. **marundhu** - Medicine
+323. **injection** - Injection
+324. **bandage** - Bandage
+325. **prescription** - Prescription
+
+**Money and Shopping**
+326. **panam** - Money
+327. **vilai** - Price
+328. **maatru** - Change
+329. **bill** - Bill
+330. **receipt** - Receipt
+331. **offer** - Offer
+332. **discount** - Discount
+333. **wallet** - Wallet
+334. **ATM** - ATM
+335. **credit card** - Credit card
+
+**Entertainment**
+336. **padam** - Movie
+337. **paattu** - Song
+338. **dance** - Dance
+339. **vilayattu** - Game/Sport
+340. **cricket** - Cricket
+341. **football** - Football
+342. **musik** - Music
+343. **drama** - Drama
+344. **comedy** - Comedy
+345. **kalaigal** - Arts
+
+**Emergency Terms**
+346. **akkini** - Fire
+347. **ambulance** - Ambulance
+348. **accident** - Accident
+349. **help** - Help
+350. **danger** - Danger
+351. **emergency** - Emergency
+352. **police** - Police
+353. **escape** - Escape
+354. **rescue** - Rescue
+355. **safety** - Safety
+
+**Common Objects**
+356. **phone** - Phone
+357. **key** - Key
+358. **watch** - Watch
+359. **mirror** - Mirror
+360. **brush** - Brush
+361. **soap** - Soap
+362. **towel** - Towel
+363. **pillow** - Pillow
+364. **blanket** - Blanket
+365. **mattress** - Mattress
+
+**Seasons and Calendar**
+366. **kaar kaalam** - Rainy season
+367. **veyil kaalam** - Summer
+368. **kulir kaalam** - Winter
+369. **vasantham** - Spring
+370. **calendar** - Calendar
+371. **january** - January
+372. **february** - February
+373. **march** - March
+374. **april** - April
+375. **may** - May
+
+**Personal Information**
+376. **peyar** - Name
+377. **vayasu** - Age
+378. **vilasam** - Address
+379. **oorr** - Native place
+380. **number** - Number
+381. **signature** - Signature
+382. **photo** - Photo
+383. **aadhar** - Aadhar
+384. **passport** - Passport
+385. **license** - License
+
+**Work Related**
+386. **velai** - Work/Job
+387. **salary** - Salary
+388. **leave** - Leave
+389. **meeting** - Meeting
+390. **boss** - Boss
+391. **team** - Team
+392. **project** - Project
+393. **deadline** - Deadline
+394. **report** - Report
+395. **promotion** - Promotion
+
+**Common Verbs (Extended)**
+396. **thirumbu** - Return
+397. **mudi** - Close
+398. **thira** - Open
+399. **nikku** - Stand
+400. **utkaar** - Sit
+401. **ezhu** - Get up
+402. **thallu** - Push
+403. **izhu** - Pull
+404. **odu** - Run
+405. **thavaru** - Skip/Jump
+
+**Additional Useful Words**
+406. **idam** - Place
+407. **samayam** - Time
+408. **vazhi** - Way/Path
+409. **udane** - Immediately
+410. **pinnadi** - Later
+411. **ippo** - Now
+412. **apparam** - After
+413. **munadi** - Before
+414. **romba** - Very/Much
+415. **konjam** - Little
+
+**Common Expressions**
+416. **paravalla** - It's okay
+417. **theriyum** - I know
+418. **theriyadu** - I don't know
+419. **puriyudhu** - I understand
+420. **puriyala** - I don't understand
+421. **mudiyum** - I can
+422. **mudiyadu** - I cannot
+423. **vendam** - Don't want
+424. **venum** - Want
+425. **wait pannu** - Please wait
+

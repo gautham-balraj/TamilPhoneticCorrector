@@ -1,0 +1,426 @@
+number,category,tanglish,english
+1,Fruits and Vegetables,valapalam,Banana
+2,Fruits and Vegetables,manga,Mango
+3,Fruits and Vegetables,pazham,Fruit
+4,Fruits and Vegetables,thakkali,Tomato
+5,Fruits and Vegetables,vendakkai,Okra
+6,Fruits and Vegetables,urulai,Potato
+7,Fruits and Vegetables,pachai milagai,Green Chili
+8,Fruits and Vegetables,saathukudi,Sweet Lime
+9,Fruits and Vegetables,pazhani,Papaya
+10,Fruits and Vegetables,sapotta,Sapota
+11,Basic Nouns,amma,Mother
+12,Basic Nouns,appa,Father
+13,Basic Nouns,veedu,House
+14,Basic Nouns,naai,Dog
+15,Basic Nouns,poonai,Cat
+16,Basic Nouns,kaigal,Hands
+17,Basic Nouns,kadai,Shop
+18,Basic Nouns,vazhi,Road
+19,Basic Nouns,paal,Milk
+20,Basic Nouns,neer,Water
+21,Verbs,vaangaren,Buying
+22,Verbs,poidu,Going
+23,Verbs,vandhen,Came
+24,Verbs,padikaren,Studying
+25,Verbs,thookitu po,Take and Go
+26,Verbs,sapidu,Eat
+27,Verbs,kaanren,Seeing
+28,Verbs,kekkiren,Listening
+29,Verbs,tholaindhu po,Lost
+30,Verbs,azhudhen,Cried
+31,Colors,neela,Blue
+32,Colors,pachai,Green
+33,Colors,sigappu,Red
+34,Colors,manjal,Yellow
+35,Colors,vellai,White
+36,Colors,karuppu,Black
+37,Colors,oruvar,One
+38,Colors,irandam,Two
+39,Colors,naalu,Four
+40,Colors,anji,Five
+41,Common Adjectives,periya,Big
+42,Common Adjectives,chinna,Small
+43,Common Adjectives,azhagaana,Beautiful
+44,Common Adjectives,nalladhu,Good
+45,Common Adjectives,ketta,Bad
+46,Time and Days,kaalai,Morning
+47,Time and Days,madhiyam,Afternoon
+48,Time and Days,malai,Evening
+49,Time and Days,raathiri,Night
+50,Time and Days,naatkal,Days
+51,Family Relations,thambi,Younger brother
+52,Family Relations,anna,Elder brother
+53,Family Relations,thangachi,Younger sister
+54,Family Relations,akka,Elder sister
+55,Family Relations,paati,Grandmother
+56,Family Relations,thatha,Grandfather
+57,Family Relations,maama,Maternal uncle
+58,Family Relations,periyappa,Father's elder brother
+59,Family Relations,chithappa,Father's younger brother
+60,Family Relations,athhai,Aunt
+61,Family Relations,maamiyar,Mother-in-law
+62,Family Relations,mamanaar,Father-in-law
+63,Family Relations,mappillai,Son-in-law/Husband
+64,Family Relations,marumagal,Daughter-in-law
+65,Family Relations,kozhandhai,Child
+66,Body Parts,kan,Eye
+67,Body Parts,kaadhu,Ear
+68,Body Parts,mookku,Nose
+69,Body Parts,vaai,Mouth
+70,Body Parts,thalai,Head
+71,Body Parts,mudiyai,Hair
+72,Body Parts,kaal,Leg
+73,Body Parts,viral,Finger
+74,Body Parts,pal,Teeth
+75,Body Parts,thol,Shoulder
+76,Body Parts,muttam,Knee
+77,Body Parts,vizhi,Eyes (formal)
+78,Body Parts,netri,Forehead
+79,Body Parts,manthai,Skull
+80,Body Parts,ithayam,Heart
+81,Food and Cooking,saatham,Rice (cooked)
+82,Food and Cooking,arisi,Rice (uncooked)
+83,Food and Cooking,sambar,Lentil soup
+84,Food and Cooking,rasam,Pepper soup
+85,Food and Cooking,thayir,Yogurt
+86,Food and Cooking,maavu,Flour
+87,Food and Cooking,uppu,Salt
+88,Food and Cooking,sakkarai,Sugar
+89,Food and Cooking,ennai,Oil
+90,Food and Cooking,kari,Meat
+91,Food and Cooking,meen,Fish
+92,Food and Cooking,mulai,Egg
+93,Food and Cooking,vengayam,Onion
+94,Food and Cooking,poondu,Garlic
+95,Food and Cooking,inji,Ginger
+96,Home and Furniture,katil,Bed
+97,Home and Furniture,meyai,Table
+98,Home and Furniture,naarkali,Chair
+99,Home and Furniture,jannal,Window
+100,Home and Furniture,kathavu,Door
+101,Home and Furniture,suvar,Wall
+102,Home and Furniture,tharai,Floor
+103,Home and Furniture,kuzhai,Tap
+104,Home and Furniture,vizhakku,Light
+105,Home and Furniture,min visiri,Fan
+106,Home and Furniture,aduppu,Stove
+107,Home and Furniture,paanai,Pot
+108,Home and Furniture,glass,Glass
+109,Home and Furniture,plate,Plate
+110,Home and Furniture,spoon,Spoon
+111,Common Verbs,ezhudharen,Writing
+112,Common Verbs,pesaren,Speaking
+113,Common Verbs,odaren,Running
+114,Common Verbs,nadakiren,Walking
+115,Common Verbs,paakiren,Looking
+116,Common Verbs,seiyaren,Doing
+117,Common Verbs,kodukiren,Giving
+118,Common Verbs,vaangiren,Taking
+119,Common Verbs,thoonguren,Sleeping
+120,Common Verbs,ezhundirukiren,Waking up
+121,Common Verbs,sindhikiren,Thinking
+122,Common Verbs,marakiren,Forgetting
+123,Common Verbs,ninaikiren,Remembering
+124,Common Verbs,mudikiren,Finishing
+125,Common Verbs,thodanguren,Starting
+126,Places,palli,School
+127,Places,hospital,Hospital
+128,Places,temple,Kovil
+129,Places,bank,Bank
+130,Places,angadi,Market
+131,Places,railway station,Railway station
+132,Places,bus stand,Bus stand
+133,Places,kadarkkarai,Beach
+134,Places,thidal,Ground
+135,Places,maidanam,Playground
+136,Places,theatre,Theatre
+137,Places,hotel,Restaurant
+138,Places,library,Library
+139,Places,office,Office
+140,Places,veettu thottam,Garden
+141,Weather and Nature,mazhai,Rain
+142,Weather and Nature,veyil,Sun/Sunlight
+143,Weather and Nature,kaatru,Wind
+144,Weather and Nature,megam,Cloud
+145,Weather and Nature,minnal,Lightning
+146,Weather and Nature,idigal,Thunder
+147,Weather and Nature,pani,Dew
+148,Weather and Nature,vaanam,Sky
+149,Weather and Nature,kadal,Sea
+150,Weather and Nature,malai,Mountain
+151,Weather and Nature,aaru,River
+152,Weather and Nature,maram,Tree
+153,Weather and Nature,poo,Flower
+154,Weather and Nature,ilai,Leaf
+155,Weather and Nature,mann,Soil
+156,Numbers and Math,zero,Poojyam
+157,Numbers and Math,moonru,Three
+158,Numbers and Math,aaru,Six
+159,Numbers and Math,yezhu,Seven
+160,Numbers and Math,ettu,Eight
+161,Numbers and Math,onbadhu,Nine
+162,Numbers and Math,pathu,Ten
+163,Numbers and Math,nooru,Hundred
+164,Numbers and Math,aayiram,Thousand
+165,Numbers and Math,koottal,Addition
+166,Numbers and Math,kazhithal,Subtraction
+167,Numbers and Math,perukal,Multiplication
+168,Numbers and Math,vaguthal,Division
+169,Numbers and Math,kanakku,Math
+170,Numbers and Math,samam,Equal
+171,Time Related,neram,Time
+172,Time Related,mani,Hour/Clock
+173,Time Related,nimisham,Minute
+174,Time Related,vinaadi,Second
+175,Time Related,inru,Today
+176,Time Related,netru,Yesterday
+177,Time Related,naalai,Tomorrow
+178,Time Related,vaaram,Week
+179,Time Related,maadham,Month
+180,Time Related,varusham,Year
+181,Time Related,gnaayiru,Sunday
+182,Time Related,thingal,Monday
+183,Time Related,sevvaai,Tuesday
+184,Time Related,budhan,Wednesday
+185,Time Related,vyaazham,Thursday
+186,Emotions and Feelings,sandhosham,Happy
+187,Emotions and Feelings,kavalai,Sad
+188,Emotions and Feelings,kovam,Angry
+189,Emotions and Feelings,bayam,Fear
+190,Emotions and Feelings,asai,Desire
+191,Emotions and Feelings,kadhal,Love
+192,Emotions and Feelings,veruppu,Hate
+193,Emotions and Feelings,poramai,Jealousy
+194,Emotions and Feelings,madgizhchi,Joy
+195,Emotions and Feelings,thunbam,Sorrow
+196,Emotions and Feelings,kalavarai,Worry
+197,Emotions and Feelings,amaithi,Peace
+198,Emotions and Feelings,kulappam,Confusion
+199,Emotions and Feelings,nambikai,Hope
+200,Emotions and Feelings,aarvam,Enthusiasm
+201,Clothing and Accessories,sattai,Shirt
+202,Clothing and Accessories,pantal,Pants
+203,Clothing and Accessories,pavadai,Skirt
+204,Clothing and Accessories,pudavai,Saree
+205,Clothing and Accessories,thundu,Towel
+206,Clothing and Accessories,mele sattai,T-shirt
+207,Clothing and Accessories,jatti,Underwear
+208,Clothing and Accessories,kalangu,Bangle
+209,Clothing and Accessories,mothhiram,Ring
+210,Clothing and Accessories,kadikaram,Watch
+211,Clothing and Accessories,thali,Mangalsutra
+212,Clothing and Accessories,kunjam,Hair tie
+213,Clothing and Accessories,seruppu,Slipper/Shoe
+214,Clothing and Accessories,pai,Bag
+215,Clothing and Accessories,kuda,Umbrella
+216,Question Words,enna,What
+217,Question Words,yaar,Who
+218,Question Words,enga,Where
+219,Question Words,eppo,When
+220,Question Words,epdi,How
+221,Question Words,yean,Why
+222,Question Words,ethana,How many
+223,Question Words,evlo,How much
+224,Question Words,ethu,Which
+225,Question Words,yaaru kita,With whom
+226,Common Phrases,vanakkam,Hello/Greetings
+227,Common Phrases,nandri,Thank you
+228,Common Phrases,manikiren,Sorry
+229,Common Phrases,paarkalaam,Let's see
+230,Common Phrases,sari,Okay
+231,Common Phrases,illai,No
+232,Common Phrases,aamam,Yes
+233,Common Phrases,pogalaam,Let's go
+234,Common Phrases,vaanga,Come (respectful)
+235,Common Phrases,irunga,Wait/Sit (respectful)
+236,Professions,aasiriyar,Teacher
+237,Professions,doctor,Doctor
+238,Professions,vivasaayi,Farmer
+239,Professions,police,Police
+240,Professions,engineer,Engineer
+241,Professions,driver,Driver
+242,Professions,vyabaari,Businessman
+243,Professions,sevakar,Server
+244,Professions,thozhilali,Worker
+245,Professions,kalai gnan,Artist
+246,Transportation,car,Car
+247,Transportation,bus,Bus
+248,Transportation,train,Train
+249,Transportation,bike,Bike
+250,Transportation,cycle,Cycle
+251,Transportation,vimanam,Airplane
+252,Transportation,auto,Auto rickshaw
+253,Transportation,kappal,Ship
+254,Transportation,lorry,Truck
+255,Transportation,metro,Metro
+256,Education Terms,puttagam,Book
+257,Education Terms,pencil,Pencil
+258,Education Terms,pen,Pen
+259,Education Terms,note,Notebook
+260,Education Terms,bag,School bag
+261,Education Terms,exam,Exam
+262,Education Terms,padippu,Education
+263,Education Terms,homework,Homework
+264,Education Terms,marks,Marks
+265,Education Terms,pass,Pass
+266,Technology,computer,Computer
+267,Technology,mobile,Mobile phone
+268,Technology,internet,Internet
+269,Technology,website,Website
+270,Technology,printer,Printer
+271,Technology,camera,Camera
+272,Technology,tv,Television
+273,Technology,radio,Radio
+274,Technology,battery,Battery
+275,Technology,charger,Charger
+276,Directions,vadakku,North
+277,Directions,therku,South
+278,Directions,kizhakku,East
+279,Directions,merkku,West
+280,Directions,valadu,Right
+281,Directions,idadu,Left
+282,Directions,mele,Up
+283,Directions,keezhe,Down
+284,Directions,munadi,Front
+285,Directions,pinadi,Back
+286,Animals and Birds,yaanai,Elephant
+287,Animals and Birds,singham,Lion
+288,Animals and Birds,puli,Tiger
+289,Animals and Birds,kurangu,Monkey
+290,Animals and Birds,aadu,Goat
+291,Animals and Birds,maadu,Cow
+292,Animals and Birds,parravai,Bird
+293,Animals and Birds,kaagam,Crow
+294,Animals and Birds,mayil,Peacock
+295,Animals and Birds,kili,Parrot
+296,Quantifiers and Measurements,neraya,Many/Lots
+297,Quantifiers and Measurements,konjam,Little/Few
+298,Quantifiers and Measurements,adhigam,More
+299,Quantifiers and Measurements,kuraiva,Less
+300,Quantifiers and Measurements,muzhusa,Full
+301,Quantifiers and Measurements,kilo,Kilogram
+302,Quantifiers and Measurements,meter,Meter
+303,Quantifiers and Measurements,litre,Litre
+304,Quantifiers and Measurements,dozen,Dozen
+305,Quantifiers and Measurements,paathi,Half
+306,Common Adjectives,pazhaya,Old
+307,Common Adjectives,pudhiya,New
+308,Common Adjectives,nalla,Good
+309,Common Adjectives,mosam,Bad
+310,Common Adjectives,veega,Fast
+311,Common Adjectives,meduva,Slow
+312,Common Adjectives,sulabam,Easy
+313,Common Adjectives,kashtam,Difficult
+314,Common Adjectives,uyaram,Tall
+315,Common Adjectives,kattai,Short
+316,Health Related,jarham,Cold
+317,Health Related,kaichal,Fever
+318,Health Related,vali,Pain
+319,Health Related,thalai vali,Headache
+320,Health Related,vaandhi,Vomit
+321,Health Related,maruthuvar,Doctor
+322,Health Related,marundhu,Medicine
+323,Health Related,injection,Injection
+324,Health Related,bandage,Bandage
+325,Health Related,prescription,Prescription
+326,Money and Shopping,panam,Money
+327,Money and Shopping,vilai,Price
+328,Money and Shopping,maatru,Change
+329,Money and Shopping,bill,Bill
+330,Money and Shopping,receipt,Receipt
+331,Money and Shopping,offer,Offer
+332,Money and Shopping,discount,Discount
+333,Money and Shopping,wallet,Wallet
+334,Money and Shopping,ATM,ATM
+335,Money and Shopping,credit card,Credit card
+336,Entertainment,padam,Movie
+337,Entertainment,paattu,Song
+338,Entertainment,dance,Dance
+339,Entertainment,vilayattu,Game/Sport
+340,Entertainment,cricket,Cricket
+341,Entertainment,football,Football
+342,Entertainment,musik,Music
+343,Entertainment,drama,Drama
+344,Entertainment,comedy,Comedy
+345,Entertainment,kalaigal,Arts
+346,Emergency Terms,akkini,Fire
+347,Emergency Terms,ambulance,Ambulance
+348,Emergency Terms,accident,Accident
+349,Emergency Terms,help,Help
+350,Emergency Terms,danger,Danger
+351,Emergency Terms,emergency,Emergency
+352,Emergency Terms,police,Police
+353,Emergency Terms,escape,Escape
+354,Emergency Terms,rescue,Rescue
+355,Emergency Terms,safety,Safety
+356,Common Objects,phone,Phone
+357,Common Objects,key,Key
+358,Common Objects,watch,Watch
+359,Common Objects,mirror,Mirror
+360,Common Objects,brush,Brush
+361,Common Objects,soap,Soap
+362,Common Objects,towel,Towel
+363,Common Objects,pillow,Pillow
+364,Common Objects,blanket,Blanket
+365,Common Objects,mattress,Mattress
+366,Seasons and Calendar,kaar kaalam,Rainy season
+367,Seasons and Calendar,veyil kaalam,Summer
+368,Seasons and Calendar,kulir kaalam,Winter
+369,Seasons and Calendar,vasantham,Spring
+370,Seasons and Calendar,calendar,Calendar
+371,Seasons and Calendar,january,January
+372,Seasons and Calendar,february,February
+373,Seasons and Calendar,march,March
+374,Seasons and Calendar,april,April
+375,Seasons and Calendar,may,May
+376,Personal Information,peyar,Name
+377,Personal Information,vayasu,Age
+378,Personal Information,vilasam,Address
+379,Personal Information,oorr,Native place
+380,Personal Information,number,Number
+381,Personal Information,signature,Signature
+382,Personal Information,photo,Photo
+383,Personal Information,aadhar,Aadhar
+384,Personal Information,passport,Passport
+385,Personal Information,license,License
+386,Work Related,velai,Work/Job
+387,Work Related,salary,Salary
+388,Work Related,leave,Leave
+389,Work Related,meeting,Meeting
+390,Work Related,boss,Boss
+391,Work Related,team,Team
+392,Work Related,project,Project
+393,Work Related,deadline,Deadline
+394,Work Related,report,Report
+395,Work Related,promotion,Promotion
+396,Common Verbs (Extended),thirumbu,Return
+397,Common Verbs (Extended),mudi,Close
+398,Common Verbs (Extended),thira,Open
+399,Common Verbs (Extended),nikku,Stand
+400,Common Verbs (Extended),utkaar,Sit
+401,Common Verbs (Extended),ezhu,Get up
+402,Common Verbs (Extended),thallu,Push
+403,Common Verbs (Extended),izhu,Pull
+404,Common Verbs (Extended),odu,Run
+405,Common Verbs (Extended),thavaru,Skip/Jump
+406,Additional Useful Words,idam,Place
+407,Additional Useful Words,samayam,Time
+408,Additional Useful Words,vazhi,Way/Path
+409,Additional Useful Words,udane,Immediately
+410,Additional Useful Words,pinnadi,Later
+411,Additional Useful Words,ippo,Now
+412,Additional Useful Words,apparam,After
+413,Additional Useful Words,munadi,Before
+414,Additional Useful Words,romba,Very/Much
+415,Additional Useful Words,konjam,Little
+416,Common Expressions,paravalla,It's okay
+417,Common Expressions,theriyum,I know
+418,Common Expressions,theriyadu,I don't know
+419,Common Expressions,puriyudhu,I understand
+420,Common Expressions,puriyala,I don't understand
+421,Common Expressions,mudiyum,I can
+422,Common Expressions,mudiyadu,I cannot
+423,Common Expressions,vendam,Don't want
+424,Common Expressions,venum,Want
+425,Common Expressions,wait pannu,Please wait
